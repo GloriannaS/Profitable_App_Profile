@@ -1,10 +1,6 @@
-# Profitable_App_Profile
+# Analyzing Mobile App Data
 In this project, we will look at two datasets that contain information about many different apps. First, We will clean the datasets. Then we will analyze them, looking for the most common app genre, apps with high ratings, and apps with the most installs. Based on our findings, we will create a suggested app profile that is likely to be profitable.
 
-<br/>
+[![Analyzing Mobile App Data](app-data-analysis.png)](https://colab.research.google.com/drive/1ffd76XS6OXXMzFtPq3_qxmaNDB4pxCaW?usp=sharing)
 
-**Note:**
-For those who are not familiar with Jupyter Notebook, here are some steps on how to run the code within the notebook:
-  - Look for the toolbar above the code where you can see the dropdowns: 'File' 'Edit' 'View' 'Run' 'Kernel' 'Settings' 'Help'
-  - Select the 'Run' dropdown, and then select the 'Run All Cells' option
-  - OR If you have selected a certain cell you would like to examine, by clicking on that cell, then in the 'Run' dropdown, select the 'Run Selected Cell' option
+View this project live on Google Colab [here](https://colab.research.google.com/drive/1ffd76XS6OXXMzFtPq3_qxmaNDB4pxCaW?usp=sharing).
